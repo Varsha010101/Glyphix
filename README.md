@@ -11,14 +11,21 @@ Welcome to the Glyphix project! This repository provides a powerful solution for
 
   
 # 📦 Installation
-To get started, follow these simple steps to set up your environment:
+To get started, follow these simple steps to set up your environment 
+
+# Prerequisites
+
+Ensure you have the following installed:
+
+- **Python** (3.7 or higher)
+- **pip** (Python package installer)
+
 
 # Clone the repository:
 
-'''bash:
+```bash
 git clone https://github.com/Varsha010101/Glyphix.git
-
-Install required packages: Make sure you have Python 3.7+ and TensorFlow installed. You can create a virtual environment and install dependencies using pip.
+```
 
 # 📄 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
